@@ -1,0 +1,6 @@
+faster-whisper
+gradio
+torch
+numpy
+ffmpeg-python
+tqdm
